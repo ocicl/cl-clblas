@@ -1,0 +1,9 @@
+* cl-clblas
+
+Common Lisp binding for clBLAS
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/gos-k/cl-clblas.git |
+| commit  | e6ca2aa                                    |
+| systems | cl-clblas                                  |
+|---------+--------------------------------------------|
